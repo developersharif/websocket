@@ -4,7 +4,7 @@ This repository provides a comprehensive set of examples to help you learn and p
 
 ## Features
 
-### Core PHP WebSocket Example
+### <a href="https://github.com/developersharif/websocket/tree/main/server/corePhp">Core PHP WebSocket Example</a>
 
 Get started with the fundamentals of using raw PHP to create WebSocket servers and clients. Ideal for understanding the low-level mechanics of WebSocket communication.
 
