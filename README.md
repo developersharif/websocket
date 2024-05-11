@@ -18,7 +18,7 @@ This repository provides a comprehensive set of examples to help you learn and p
 
 Get started with the fundamentals of using raw PHP to create WebSocket servers and clients. Ideal for understanding the <b>low-level mechanics</b> of WebSocket communication.
 
-### Ratchet WebSocket Implementation
+### Ratchet WebSocket Implementation <sup><small>Coming soon...</small></sup>
 
 Dive into the Ratchet package to build more robust WebSocket applications with PHP. This section helps you enhance your applications with a WebSocket protocol.
 
