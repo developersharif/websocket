@@ -23,3 +23,7 @@ See how to implement WebSockets within the context of the Hyperf framework for h
 ## Learning Outcomes
 
 Each section includes step-by-step examples and explanations to ensure you gain practical knowledge and hands-on experience. Perfect for developers interested in real-time web technologies and asynchronous communication in PHP.
+
+## Authors
+
+- [@developersharif](https://www.github.com/developersharif)
