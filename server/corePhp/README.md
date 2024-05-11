@@ -37,6 +37,7 @@ To run this PHP socket server, you'll need:
    ```bash
    php -f server/corePhp/client.php
    ```
+![2024-05-11_14-16](https://github.com/developersharif/websocket/assets/54396379/031223dd-002c-4c91-b013-aa9a91070b81)
 
 ## How It Works
 
