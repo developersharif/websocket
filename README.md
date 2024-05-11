@@ -12,6 +12,20 @@ This repository provides a comprehensive set of examples to help you learn and p
 
 <a href="https://www.php.net/manual/en/ref.sockets.php">PHP Socket Functions</a>: For specific information about PHP socket functions and classes, refer to the PHP manual or online tutorials and guides dedicated to PHP socket programming. These resources typically cover topics such as creating and managing sockets, establishing connections, sending and receiving data, and handling errors and timeouts.
 
+## HOW WEB SOCKET WORKS? (client(Browser)->server)
+
+Websocket works by making a connection between client and server. In order to start the connection, clients sends a http GET request with a <b>upgrade header</b>, so that the server know that this is a upgrade request and it responds with <b>status 101</b> if the server supports the upgrade properties and return error code if not.
+
+If any code other than 101 is returned from the server, Clients has to end the connection.
+
+Websockets are consider as they make a single connection between client and server and there is no overhead of making those handshakes with the server every time we have to communicate.
+
+#### Client side request headers look like this:
+
+![image](https://github.com/developersharif/websocket/assets/54396379/ba544078-a50a-41ef-835d-25d9d86a50db)
+
+<a href="https://vishalrana9915.medium.com/understanding-websockets-in-depth-6eb07ab298b3">Blog reference at medium</a>
+
 ## Examples
 
 ### <a href="https://github.com/developersharif/websocket/tree/main/server/corePhp">Core PHP WebSocket Example</a>
