@@ -2,7 +2,17 @@
 
 This repository provides a comprehensive set of examples to help you learn and practice using WebSockets in different PHP environments. Whether you're new to WebSockets or looking to expand your knowledge, these examples cover a range of scenarios from basic to advanced implementations.
 
-## Features
+<a href="https://datatracker.ietf.org/doc/html/rfc6455">WebSocket Protocol (RFC 6455)</a>: Understand the foundational protocol that defines how data is exchanged between the network and the client, initiating with an HTTP handshake that upgrades to a WebSocket connection.
+
+<a href="https://datatracker.ietf.org/doc/html/rfc1180">RFC 1180 - A TCP/IP Tutorial</a>: This RFC provides a beginner-friendly introduction to TCP/IP networking concepts, including protocols like TCP and UDP, IP addressing, and packet routing. It serves as a useful primer for understanding how sockets fit into the broader networking landscape.
+
+<a href="https://datatracker.ietf.org/doc/rfc2616/">RFC 2616 - Hypertext Transfer Protocol (HTTP/1.1)</a>: While not directly related to sockets, this RFC defines the HTTP protocol commonly used for web communication. Many PHP socket applications involve interacting with web servers or implementing web services, making an understanding of HTTP beneficial.
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSocket">JavaScript WebSocket API</a>: Learn how to implement WebSockets on the client side using the WebSocket API available in modern web browsers. Explore how to open, manage, send, and receive data through the WebSocket connection.
+
+<a href="https://www.php.net/manual/en/ref.sockets.php">PHP Socket Functions</a>: For specific information about PHP socket functions and classes, refer to the PHP manual or online tutorials and guides dedicated to PHP socket programming. These resources typically cover topics such as creating and managing sockets, establishing connections, sending and receiving data, and handling errors and timeouts.
+
+## Examples
 
 ### <a href="https://github.com/developersharif/websocket/tree/main/server/corePhp">Core PHP WebSocket Example</a>
 
