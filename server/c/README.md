@@ -47,7 +47,7 @@ To run this socket server and client, you'll need:
    ```bash
    ./client
    ```
-![socketServerinc](https://github.com/developersharif/websocket/assets/54396379/4995dea6-6d35-4ae1-96c7-a7a5902f7b3b)
+   ![socketServerinc](https://github.com/developersharif/websocket/assets/54396379/4995dea6-6d35-4ae1-96c7-a7a5902f7b3b)
 
 ## How It Works
 
@@ -189,6 +189,8 @@ int main() {
 }
 
 ```
+
+<a href="https://www.linuxhowtos.org/C_C++/socket.htm">Blog Reference</a> 🙂
 
 ### Note
 
