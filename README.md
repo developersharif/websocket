@@ -28,6 +28,10 @@ Websockets are consider as they make a single connection between client and serv
 
 ## Examples
 
+### <a href="https://github.com/developersharif/websocket/tree/main/server/c">WebSocket in C with Example</a>
+
+Explore the nuts and bolts of WebSocket communication using pure C programming. This example showcases the <b>low-level implementation</b> details of creating WebSocket servers and clients, providing a solid foundation for understanding the underlying mechanisms.
+
 ### <a href="https://github.com/developersharif/websocket/tree/main/server/corePhp">Core PHP WebSocket Example</a>
 
 Get started with the fundamentals of using raw PHP to create WebSocket servers and clients. Ideal for understanding the <b>low-level mechanics</b> of WebSocket communication.
